@@ -29,7 +29,8 @@
                 "label": "Danışmanlık",
                 "url": "/style-guide/",
                 "style": "link",
-                "icon": "facebook"
+                "icon": "facebook",
+                "new_window": true
             },
             {
                 "label": "İletişim",
