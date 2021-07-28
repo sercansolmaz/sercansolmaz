@@ -30,7 +30,7 @@
                 "url": "/style-guide/",
                 "style": "link",
                 "icon": "facebook",
-                "new_window": false
+                "new_window": true
             },
             {
                 "label": "İletişim",
