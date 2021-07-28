@@ -21,13 +21,13 @@
                 "style": "link"
             },
             {
-                "label": "Danışmanlık",
-                "url": "/style-guide/",
+                "label": "Hakkımda",
+                "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Hakkımda",
-                "url": "/about/",
+                "label": "Danışmanlık",
+                "url": "/style-guide/",
                 "style": "link"
             },
             {
