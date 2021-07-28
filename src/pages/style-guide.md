@@ -38,9 +38,7 @@ template: page
 ---
 **This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper
 
-
-
-\<blockquote class="twitter-tweet">\<p lang="tr" dir="ltr">medium\&#39;daki yazılarımı yeni blog\&#39;a taşırken, sadece 1 post için 3 saat boyunca markdown dilini anlamaya, yazmaya çalışıp, sonrasında zaten bir chrome eklentisi ile \&#39;\&#39;1 saniyede yapılabildiğini öğrenmem\&#39;\&#39; şoku.\</p>\&mdash; Sercan Solmaz  (@sercansolmaz) \<a href="https://twitter.com/sercansolmaz/status/1418838046867345409?ref_src=twsrc%5Etfw">July 24, 2021\</a>\</blockquote> \<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">\</script>pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+![](images/DSC00340.jpg)
 
 # This is an H1
 
